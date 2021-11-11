@@ -86,6 +86,11 @@ header {
   left: 75%;
   z-index: -1;
 }
+.icons{
+  width: 100% auto;
+  height: 100% auto;
+ 
+}
 .sectionIcons {
   border: 1px solid rgb(235, 235, 235);
   border-radius: 10px;
