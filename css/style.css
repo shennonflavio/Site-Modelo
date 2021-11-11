@@ -143,6 +143,11 @@ header {
   height: 60px;
   animation: 1.1s alternate infinite ease-in;
 }
+.easy{
+  width: 100%;
+  height: 100%;
+
+}
 
 .section2, .section4{
    background-color: #ffffff;
