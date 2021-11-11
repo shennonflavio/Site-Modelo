@@ -155,9 +155,12 @@ header {
     position: relative;
 }
 .competition {
-  max-width: 134%;
+  width: 134%;
+  height: 100%;
+  padding-bottom: 50px;
+  /* max-width: 134%; */
   position: relative;
-  left: -45%; 
+  left: -10%; 
 }
 
 .section3-box {
