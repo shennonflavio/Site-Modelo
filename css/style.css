@@ -86,9 +86,10 @@ header {
   left: 75%;
   z-index: -1;
 }
-.icons, .window, .payment{
+.icons, .window, .payment, .arrow, .logo{
   width: 100% auto;
   height: 100% auto;
+  
  
 }
 .sectionIcons {
