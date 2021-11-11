@@ -12,7 +12,7 @@ html {
 }
 header {
   position: relative;
-  background: url("../assets/banner.png") center center;
+  background: url("../assets/banner.webp") center center;
   height: auto;
   padding-bottom: 130px;
   background-repeat: no-repeat;
@@ -21,7 +21,7 @@ header {
   background-position-x: 50%;
 }
 .titleBg {
-  background: url("../assets/titleBg.png") no-repeat center center;
+  background: url("../assets/titleBg.webp") no-repeat center center;
   width: 80%;
   height: 300px;
   margin-left: 10%;
@@ -35,7 +35,7 @@ header {
   background: transparent;
 }
 .section1 {
-  background: url("../assets/section2.png") no-repeat center center;
+  background: url("../assets/section2.webp") no-repeat center center;
   background-size: cover;
   background-color: #efeff1;
   padding: 14% 0% 8% 0;
@@ -47,7 +47,7 @@ header {
 .element1 {
   width: 363px;
   height: 376px;
-  background-image: url("../assets/ele2.png");
+  background-image: url("../assets/ele2.webp");
   background-repeat: no-repeat;
   position: absolute;
   top: 12%;
@@ -56,7 +56,7 @@ header {
 .element2 {
   width: 534px;
   height: 487px;
-  background-image: url("../assets/ele3.png");
+  background-image: url("../assets/ele3.webp");
   background-repeat: no-repeat;
   position: absolute;
   bottom: 0;
@@ -66,7 +66,7 @@ header {
 .element3 {
   width: 414px;
   height: 1411px;
-  background-image: url("../assets/ele4.png");
+  background-image: url("../assets/ele4.webp");
   background-repeat: no-repeat;
   position: absolute;
   bottom: 0;
@@ -94,7 +94,7 @@ header {
   margin-top: -20px;
 }
 .titleBg2 {
-  background: url("../assets/titleBg2.png") no-repeat center center;
+  background: url("../assets/titleBg2.webp") no-repeat center center;
   padding: 3% 3% 5% 3%;
   position: relative;
   z-index: 2;
@@ -110,7 +110,7 @@ header {
   margin-bottom: 30px;
 }
 .videoBg {
-  background: url("../assets/videoBg.png") no-repeat center center;
+  background: url("../assets/videoBg.webp") no-repeat center center;
   position: relative;
   padding: 1% 0% 6% 2%;
   background-size: contain;
@@ -123,7 +123,7 @@ header {
 }
 
 .videoBg:after {
-  content: url("../assets/thumbsUp.png");
+  content: url("../assets/thumbsUp.webp");
   position: absolute;
   z-index: 3;
   left: -8px;
@@ -137,7 +137,7 @@ header {
    background-color: #ffffff;
 }
 .section3{
-    background: url("../assets/section3.png") no-repeat center bottom;
+    background: url("../assets/section3.webp") no-repeat center bottom;
     background-size: cover;
     padding: 3% 0 4% 0;
     overflow: hidden;
@@ -173,55 +173,55 @@ header {
   background-image: -webkit-linear-gradient(0deg,rgb(49, 203, 226) 0%,rgb(2, 170, 195) 100%);
 }
 .box-marketer1:before {
-  content: url("../assets/marketer1.png");
+  content: url("../assets/marketer1.webp");
 }
 .box-marketer2 {
  background-image: -webkit-linear-gradient(rgb(67,18,154) 0%, rgb(100,46,180) 49%, rgb(132,74,206) 100%);
 }
 .box-marketer2:before {
-  content: url("../assets/marketer2.png");
+  content: url("../assets/marketer2.webp");
 }
 .box-marketer3 {
   background-image: -webkit-linear-gradient(0deg,rgb(140,138,0) 0%, rgb(185,182,0) 99%);
 }
 .box-marketer3:before {
-  content: url("../assets/marketer3.png");
+  content: url("../assets/marketer3.webp");
 }
 .box-marketer4 {
   background-image: -webkit-linear-gradient(0deg,rgb(203,85,201) 0%, rgb(175,80,197) 100%);
 }
 .box-marketer4:before {
-  content: url("../assets/marketer4.png");
+  content: url("../assets/marketer4.webp");
 }
 .box-marketer5 {
   background-image: -webkit-linear-gradient(0deg,rgb(90,221,176) 0%, rgb(23,104,197) 100%);
 }
 .box-marketer5:before {
-  content: url("../assets/marketer5.png");
+  content: url("../assets/marketer5.webp");
 }
 .box-marketer6 {
   background-image: -webkit-linear-gradient(0deg,rgb(246,124,40) 0%, rgb(240,73,36) 100%);
 }
 .box-marketer6:before {
-  content: url("../assets/marketer6.png");
+  content: url("../assets/marketer6.webp");
 }
 .box-marketer7 {
   background-image: -webkit-linear-gradient(0deg,rgb(76,102,200) 0%, rgb(84,80,207) 100%);
 }
 .box-marketer7:before {
-  content: url("../assets/marketer7.png");
+  content: url("../assets/marketer7.webp");
 }
 .box-marketer8 {
   background-image: -webkit-linear-gradient(0deg,rgb(42,138,255) 0%, rgb(133,123,255) 100%);
 }
 .box-marketer8:before {
-  content: url("../assets/marketer8.png");
+  content: url("../assets/marketer8.webp");
 }
 .box-marketer9 {
   background-image: -webkit-linear-gradient(0deg,rgb(49, 203, 226) 0%,rgb(2, 170, 195) 100%);
 }
 .box-marketer9:before {
-  content: url("../assets/marketer9.png");
+  content: url("../assets/marketer9.webp");
 }
 .section4{
   padding-bottom: 150px;
@@ -230,7 +230,7 @@ header {
 .title-box{ width: 98%;}
 
 .title{
-  background: url("../assets/title.png")no-repeat center center;
+  background: url("../assets/title.webp")no-repeat center center;
   background-size: contain;
   display: flex;
   align-items: center;
@@ -248,7 +248,7 @@ header {
 padding-left: 5px;
 padding-top: 10px;
 display: flex;
-background: url("../assets/section6Bg.png") no-repeat right bottom;
+background: url("../assets/section6Bg.webp") no-repeat right bottom;
 border: 5px solid white;
 margin: 10px;
 background-size: cover;
@@ -277,12 +277,12 @@ box-shadow: 0px 0px 21px 0px rgb(51 51 51 / 24%);
   padding: 25px ;
 }
 .section6{
-    background: url("../assets/section13.png") no-repeat center bottom;
+    background: url("../assets/section13.webp") no-repeat center bottom;
     background-size: cover;
     padding: 2% 0 5% 0;
 }
 .titleBgSection6, .titleBgSection7{
-    background: url("../assets/titleBg17A.png") no-repeat center center;
+    background: url("../assets/titleBg17A.webp") no-repeat center center;
     padding: 3% 2% 5% 2%;
     position: relative;
     z-index: 2;
@@ -326,7 +326,7 @@ box-shadow: 0px 0px 21px 0px rgb(51 51 51 / 24%);
 .solution p{margin-top: 3%;margin-bottom:4%;}
 
 .section7{
-    background: url("../assets/section21.png") no-repeat center bottom;
+    background: url("../assets/section21.webp") no-repeat center bottom;
     background-size: cover;
     padding: 3% 0 12% 0;
     overflow: hidden;
@@ -364,7 +364,7 @@ box-shadow: 0px 0px 21px 0px rgb(51 51 51 / 24%);
     padding-left: 0px;
 }
 .table-checklist li {
-    background: url("../assets/check5.png") no-repeat left center;
+    background: url("../assets/check5.webp") no-repeat left center;
     background-position: 5%;
     padding-left: 62px;
     padding-right: 1%;
@@ -388,13 +388,13 @@ box-shadow: 0px 0px 21px 0px rgb(51 51 51 / 24%);
     left: -4%;
 }
 .border-img {
-    background: url("../assets/fontLine8.png") no-repeat center bottom;
+    background: url("../assets/fontLine8.webp") no-repeat center bottom;
     padding: 5px 12px;
 }
 
 .section8{background-color: white;}
 .section8A{
-    background: url("../assets/section22.png") no-repeat center center;
+    background: url("../assets/section22.webp") no-repeat center center;
     background-size: cover;
     padding: 2% 0 4% 0;
     overflow: hidden;
@@ -406,7 +406,7 @@ box-shadow: 0px 0px 21px 0px rgb(51 51 51 / 24%);
 .uncheck-list-box, .check-list-box { margin-top: 18%;  }
 .unchecklist{
   height: 60px;
-  background: url("../assets/uncheck.png")no-repeat ;
+  background: url("../assets/uncheck.webp")no-repeat ;
   list-style: none;
   font-size: clamp(1em, 1em + 1vw, 1em);
   padding-top: 12px;
@@ -423,7 +423,7 @@ box-shadow: 0px 0px 21px 0px rgb(51 51 51 / 24%);
     float: right;
 }
 .unchecklist2 li {
-    background: url("../assets/uncheck3.png") no-repeat left 2px;
+    background: url("../assets/uncheck3.webp") no-repeat left 2px;
     padding-left: 35px;
     padding-right: 1%;
     list-style: none;
@@ -445,7 +445,7 @@ box-shadow: 0px 0px 21px 0px rgb(51 51 51 / 24%);
     float: left;
 }
 .checklist2 li {
-    background: url("../assets/check6.png") no-repeat left 2px;
+    background: url("../assets/check6.webp") no-repeat left 2px;
     padding-left: 35px;
     padding-right: 1%;
     margin-left: 0;
@@ -801,7 +801,7 @@ font-size: clamp(1em, 0.8em + 1vw, 1.2em);
  }
 .box-title1{
 
-  background: url("../assets/titleIcon.png")no-repeat center center;
+  background: url("../assets/titleIcon.webp")no-repeat center center;
   background-size: contain;
   padding-left: 10px;
   position: relative;
@@ -836,7 +836,7 @@ font-size: clamp(1em, 0.8em + 1vw, 1.2em);
 }
   .box-title1{
 
-  background: url("../assets/titleIcon.png")no-repeat center center;
+  background: url("../assets/titleIcon.webp")no-repeat center center;
   background-size: contain;
   padding-left: 10px;
   position: relative;
@@ -848,7 +848,7 @@ font-size: clamp(1em, 0.8em + 1vw, 1.2em);
 }
 .uncheck-list-box:before {
   
-    content: url("../assets/bg4.png");
+    content: url("../assets/bg4.webp");
     position: absolute;
     z-index: 1;
     left: 0;
@@ -857,7 +857,7 @@ font-size: clamp(1em, 0.8em + 1vw, 1.2em);
     margin-left: 123px;
 }
 .check-list-box:after {
-    content: url("../assets/bg5.png");
+    content: url("../assets/bg5.webp");
     position: absolute;
     
     z-index: 1;
